@@ -1,6 +1,6 @@
 :root {
-    --brand-color: #1E73BE;
-    --light-brand-color: #EF57F2;
+    --brand-color: #32CCCC;
+    --light-brand-color: #FF705E;
     --text-color:  #000000;
     --light-text-color: #7C7C7C;
     --alert-color:  #EDED00 ;
@@ -26,11 +26,11 @@
 
 /* #hadoc(f286c1a79615597b) #css starts */
 .headerh222fa673a781ab9e .fa-shopping-cart{
-    color: #FC8375;
+    color: var(--brand-color);
     font-size: 22px
 }
 .headerh222fa673a781ab9e .fa-user-plus{
-    color: #AD6CF5;
+    color: var(--light-brand-color);
     font-size: 22px
 }
 .headerh222fa673a781ab9e .btn{
@@ -65,12 +65,11 @@
 
 /* #ben(f4d36302323992b2) #css starts  */
 .bannerf4d36302323992b2 .button {
-        background-color: blueviolet;
-        color: wheat
+        background-color: var(--light-brand-color) 
     }
 
 .bannerf4d36302323992b2 .button:hover {
-        color: wheat
+        color: rgb(255, 255, 255)
     }
 /* #ben(f4d36302323992b2) #css ends  */
 
@@ -282,8 +281,8 @@
         width: 500px
     }
     .aboutp3dce575962b3c369 .badge{
-        color: #A560F4;
-        background-color: #F5F0F7
+        color: var(--brand-color);
+        background-color: #ebd4f5
     }
     .aboutp3dce575962b3c369 .searchBtn{
         background-color:#FF705E ;
@@ -309,7 +308,7 @@
     width: 500px
 }
 .aboutbf5e9e9e7ee746db .searchBtn{
-    background-color:#A560F4 ;
+    background-color:#FF705E ;
     border-radius: 7px;
     color: white;
     font-weight: bold
@@ -404,7 +403,7 @@
     left: 0;
     width: 102%;
     height: 100%;
-    background: linear-gradient(45deg, #00a8f4 0%, #02d1a1 100%);
+    background: linear-gradient(45deg, #32CCCC 0%, #02d1a1 100%);
     z-index: -1;
     transition: ease 0.3s
 }
@@ -743,3 +742,4 @@ p {
     background-color: var(--darker-2-color);
     border-color: var(--darker-2-color);
     color: var(--light-color);
+                            }
