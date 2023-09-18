@@ -157,14 +157,50 @@
     font-weight: 500;
     border-radius: 0px
      }
-     .formft4wqz7r3sf .btn-primary:hover,
-     .formft4wqz7r3sf .btn-primary:active,
-     .formft4wqz7r3sf .btn-primary:focus
+     .formft4wqz7r3sf .btn-primary:not(:disabled):not(.disabled):active
      {
         background-color: #51BE78;
         border-color: #51BE78
      }
 
-
 /* #fedrick(formft4wqz7r3sf) #css starts */
 /*****fedrick*****/
+
+/*****fanul*****/
+    /* #fanul(b6c9fcc0294384085) #css starts */
+    .footerb6c9fcc0294384085 .form-control {
+        display: none
+    }
+    .footerb6c9fcc0294384085 button {
+        display: none
+    }
+    .footerb6c9fcc0294384085 footer {
+        background: #fff
+    }
+    .footerb6c9fcc0294384085 p {
+       color: #192027
+    }
+    .footerb6c9fcc0294384085 h5 {
+        font-size: 18px
+    }
+    .footerb6c9fcc0294384085 a {
+        color: #192027
+
+    }
+    .footerb6c9fcc0294384085 small {
+        font-size: 16px
+    }
+    .footerb6c9fcc0294384085 .mini-footer p a {
+        color: #51BE78
+    }
+    .footerb6c9fcc0294384085 a:hover, 
+    .footerb6c9fcc0294384085 a:focus {
+        color: #51BE78
+    }
+
+    .footerb6c9fcc0294384085 .mini-footer p a:hover {
+        color: #fff
+    }
+
+    /* #fanul(b6c9fcc0294384085) #css ends */
+/*****fanul*****/
