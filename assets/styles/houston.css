@@ -9,5 +9,42 @@
 .headerhdmc0pmwml .navbar-light .navbar-nav .nav-link:hover{
     color: #51BE78
 }
+.headerhdmc0pmwml .fab {
+    font-size: larger
+}
 /* #hunter(headerhdmc0pmwml) #css ends  */
 /*****hunter*****/
+
+/*****babette*****/
+ /* #babette(e54caba42c027d0f) #css starts  */
+ .bannere54caba42c027d0f {
+    padding: 2rem 0;
+    margin-left: 25px
+ }
+ .bannere54caba42c027d0f .video_card>img {
+    width: 1100px;
+    border-radius: 10px
+}
+.bannere54caba42c027d0f .stroke { 
+    -webkit-text-stroke-color: #51BE78
+} 
+
+.bannere54caba42c027d0f .video_card>.btn:hover {
+    box-shadow: 0px 0px 0px 14px #51BE78
+}
+
+.bannere54caba42c027d0f .video_card>.btn:active {
+    background: #51BE78
+}
+
+
+    .bannere54caba42c027d0f .desText{
+        font-size: 60px;
+        font-weight: bold
+    }
+
+    .bannere54caba42c027d0f p{
+        font-size: 20px
+    }
+/* #babette(e54caba42c027d0f) #css ends  */
+/*****babette*****/
