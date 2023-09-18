@@ -177,8 +177,8 @@
     .footerb6c9fcc0294384085 footer {
         background: #fff
     }
-    .footerb6c9fcc0294384085 p {
-       color: #192027
+    .footerb6c9fcc0294384085 .text-white {
+        color: #192027!important
     }
     .footerb6c9fcc0294384085 h5 {
         font-size: 18px
