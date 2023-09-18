@@ -48,6 +48,9 @@
 .campbelldy9djhgjfg{
     padding: 2.5rem 0
 }
+.campbelldy9djhgjfg h1{
+    font-size: 32px
+}
 
 /* #campbell(campbelldy9djhgjfg) #css ends  */
 /*****campbell*****/
@@ -55,7 +58,7 @@
 /*****felicity*****/
 /* #felicity(felicityfr3poxt3ngm) #css starts */
 .felicityfr3poxt3ngm h3{
-    font-weight: 500;
+    font-weight: 300;
     margin-top: 20px
   }
   .felicityfr3poxt3ngm .btn-primary{
@@ -65,5 +68,31 @@
     font-weight: 500;
     border-radius: 0px;
   }
+  .felicityfr3poxt3ngm .btn-primary:active{
+    background-color: #51BE78;
+    border-color: #51BE78
+  }
 /* #felicity(felicityfr3poxt3ngm) #css starts */
 /*****felicity*****/
+
+/*****chane*****/
+/* #chane(cbadii8z6i5) #css starts  */
+.cbadii8z6i5{
+    padding: 2.5rem 0
+}
+.cbadii8z6i5 h1{
+    font-size: 32px
+}
+.cbadii8z6i5 .lead{
+    font-size: 20px
+}
+.cbadii8z6i5 a{
+    color: #51BE78
+}
+.cbadii8z6i5 a:hover, 
+.cbadii8z6i5 a:focus,
+.cbadii8z6i5 a:active {
+    color: #51BE78
+}
+/* #chane(cbadii8z6i5) #css ends  */
+/*****chane*****/
