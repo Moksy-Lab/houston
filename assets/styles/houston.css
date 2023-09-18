@@ -68,31 +68,30 @@
     font-weight: 500;
     border-radius: 0px;
   }
-  .felicityfr3poxt3ngm .btn-primary:active{
+  .felicityfr3poxt3ngm .btn-primary:not(:disabled):not(.disabled):active{
     background-color: #51BE78;
     border-color: #51BE78
   }
 /* #felicity(felicityfr3poxt3ngm) #css starts */
 /*****felicity*****/
 
-/*****chane*****/
-/* #chane(cbadii8z6i5) #css starts  */
-.cbadii8z6i5{
+/*****funtush*****/
+/* #funtush(funtushftac0ssp3mu) #css starts  */
+.funtushftac0ssp3mu{
     padding: 2.5rem 0
 }
-.cbadii8z6i5 h1{
-    font-size: 32px
+.funtushftac0ssp3mu h1{
+    font-size: 32px;
+    text-align: center
 }
-.cbadii8z6i5 .lead{
+.funtushftac0ssp3mu .lead{
     font-size: 20px
 }
-.cbadii8z6i5 a{
-    color: #51BE78
+.funtushftac0ssp3mu h3{
+    text-align: center;
+    margin-top: 15px
 }
-.cbadii8z6i5 a:hover, 
-.cbadii8z6i5 a:focus,
-.cbadii8z6i5 a:active {
-    color: #51BE78
-}
-/* #chane(cbadii8z6i5) #css ends  */
-/*****chane*****/
+
+
+/* #funtush(funtushftac0ssp3mu) #css ends  */
+/*****funtush*****/
