@@ -1,9 +1,6 @@
 ## Greetings from Moksy! 👋
 
 ### What is Moksy?
-## Greetings from Moksy! 👋
-
-### What is Moksy?
 Moksy is your premier destination for open-source and 💯% free professional e-learning templates suitable for both personal and corporate ventures.
 
 ### Our Mission
